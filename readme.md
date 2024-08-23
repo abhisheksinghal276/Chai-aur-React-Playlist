@@ -11,5 +11,5 @@ Through this playlist, I learned the following things:
 
 Would highly recommend everyone to follow this playlist for learning React.
 
-Playlist: https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=1DrmsnRV_Va5WFgN
-Appwrite: https://appwrite.io/ 
+- Playlist: https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=1DrmsnRV_Va5WFgN
+- Appwrite: https://appwrite.io/ 
