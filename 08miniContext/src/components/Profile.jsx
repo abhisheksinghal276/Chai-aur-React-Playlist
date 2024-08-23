@@ -9,7 +9,7 @@ function Profile() {
     // where we passed user as props and this allows us to access to the user state
     const {user} = useContext(UserContext)
 
-    if(!user) return <div>Please Login!</div>
+    if(!user) return <div>Please enter User ID and Password</div>
 
     return <div>Welcome, {user.username} !</div>
 }
